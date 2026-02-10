@@ -1,4 +1,6 @@
-# guthub-work-assessment
-Name: M.BABJI
-College: Kalasalingam university
-WorkShop Date: 10-02-2026
+# github-work-assessment
+# Workshop Details
+
+**Name:** M. Babji  
+**College:** Kalasalingam University  
+**Workshop Date:** 10 February 2026 
